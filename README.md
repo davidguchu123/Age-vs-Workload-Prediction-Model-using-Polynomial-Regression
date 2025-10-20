@@ -1,0 +1,2 @@
+# Age-vs-Workload-Prediction-Model-using-Polynomial-Regression
+This project analyzes the relationship between employees’ age and their average working hours per week using both Linear and Polynomial Regression. The study demonstrates that workforce productivity patterns are nonlinear — with younger employees generally working longer hours, a steady mid-career plateau, and reduced hours near retirement.
